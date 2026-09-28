@@ -1,0 +1,6 @@
+{
+  "name": "Color Splitter - 3D Model Splitting & Inlays",
+  "description": "Production-grade 3D model splitting, surface contouring, and watertight CSG boolean solid partitioning using Manifold-3D WebAssembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
